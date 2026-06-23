@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi, I'm Disha
+I'm an MCA student at VIT Chennai building AI systems that work on real problems — drug interaction prediction, health diagnostics, and forest fire alert networks using LoRa mesh.
+I like understanding things from first principles, which is why most of my projects go deeper than the surface level — custom protocols, distributed backends, and explainable ML rather than just plugging in APIs.
 
-<!--
-**disharajwar350-wq/disharajwar350-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+What I work with
+Java · Python · React.js · Spring Boot · Flask · PyTorch · GNN · MongoDB · REST APIs · SHAP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects
+→ DDI Severity Prediction — GNN-based drug interaction severity classifier (87.26% accuracy) on 161,770 DrugBank pairs. Spring Boot + Flask microservice architecture.
+
+→ Smart Health Diagnostic System — Java DSA-driven backend (Trie, Graph DFS, Min-Heap) for symptom search, drug interaction detection, and emergency scheduling.
+
+→ Multimodal Diabetes Risk Prediction — 4-modality ML pipeline (EHR + Wearable + Lifestyle + Genomic). AUROC 0.7738 across 7 classifiers with SHAP explainability.
+
+→ Self-Pruning Neural Network — Learnable neuron gates achieving 99.1% weight sparsity on CIFAR-10.
+
+
+Certifications
+AWS Foundations of Prompt Engineering — June 2026
+Deep Learning Specialization — Andrew Ng, DeepLearning.AI
+HackerRank Java
+
+
+A few other things
+1st place, The Final Code-Off Coding Contest — VIT Chennai 2025
+NCC Alpha Grade
+Organizing Committee, Second Meru Combinatorics Conference 2024
