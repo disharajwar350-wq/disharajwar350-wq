@@ -1,6 +1,6 @@
 ### Hi, I'm Disha 👋
 
-I'm an MCA student at VIT Chennai building AI systems that work on real problems — drug interaction prediction, health diagnostics, and forest fire alert networks using LoRa mesh.
+I'm an MCA student at building AI systems that work on real problems — drug interaction prediction, health diagnostics, and forest fire alert networks using LoRa mesh.
 
 I like understanding things from first principles, which is why most of my projects go deeper than the surface level — custom protocols, distributed backends, and explainable ML rather than just plugging in APIs.
 
